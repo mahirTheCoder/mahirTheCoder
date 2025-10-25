@@ -4,7 +4,9 @@
 
 
 - 🌱 Exploring *React, Next.js, and Node.js*  
-- 🎯 Goal: Become a *Professional Full Stack Developer & Freelancer*  
+- 🎯 Goal: Become a *Professional Full Stack Developer & Freelancer*
+- 🚀 Dream: To build impactful products & inspire the dev community
+- 🧠 Turning ideas into interactive web solutions
 - 💡 Passionate about *Cyber Security & AI/ML*  
 
 
